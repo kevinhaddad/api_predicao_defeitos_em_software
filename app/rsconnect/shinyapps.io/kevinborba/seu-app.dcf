@@ -1,0 +1,12 @@
+name: seu-app
+title:
+username: kevinborba
+account: kevinborba
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 14999312
+bundleId: 10526892
+url: https://kevinborba.shinyapps.io/seu-app/
+version: 1
+appMode: shiny
+configured: r-4.3, list(R_LIBS = NULL)
